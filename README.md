@@ -13,8 +13,9 @@ Desenvolver 3 páginas HTMLS de um ecommerce
 
 ## Pontos Extras
 - Utilizar Estilos para componentizar elementos;
-- Utilizar Automatizadores de Tarefas como: (Grunt ou Gulp).
+- Utilizar Reactjs, ou Vue para implementar o Layout.
 - Utilizar Boas práticas de SEO
+- Disponibilizar as paginas desenvolvidas para visualização e navegação em um link Heroku, Github, ou Vercel.
 
 ## O que será avaliado?
 - Organização do Projeto
