@@ -22,7 +22,7 @@ Desenvolver 3 páginas HTMLS de um ecommerce
 - Lógica do Código
 - Identação do Código
 - Uso de componentização
-- Automatizadores (Gulp, Gruntjs)
+- Layout Pixel Perfect
 
 ## Instruções
 - Crie um repositório no GitHub ou no Bitbucket
